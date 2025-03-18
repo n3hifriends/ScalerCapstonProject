@@ -46,7 +46,7 @@ UserAuthentication: https://github.com/n3hifriends/UserAuthenticationServices.gi
 
 ### **Final Deployment & Quality Assurance**  
 - Comprehensive **unit testing and mocking** ensure application reliability.  
-- **Docker & Kubernetes** manage containerization and deployment.  
-- Hosted on **AWS infrastructure**, leveraging **EC2 for hosting, RDS for databases, and S3 for storage**.  
+- **Docker** manage containerization and deployment.  
+- Hosted on **AWS infrastructure**, leveraging **EC2 for hosting, RDS for databases**.  
 
 This project exemplifies a **modular microservices approach**, ensuring scalability, security, and maintainability. 🚀  
