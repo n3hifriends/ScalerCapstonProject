@@ -1,3 +1,9 @@
+Capstone_Project: https://github.com/n3hifriends/capstone_project.git
+PaymentGateway: https://github.com/n3hifriends/PaymentGateway.git
+EmailService: https://github.com/n3hifriends/EmailService.git
+ServiceDiscovery: https://github.com/n3hifriends/ServiceDiscovery.git
+UserAuthentication: https://github.com/n3hifriends/UserAuthenticationServices.git
+
 The **Product Catalog Application** developed as part of a **comprehensive backend system**, integrating multiple microservices to achieve a scalable and secure solution. This project involved mastering version control, backend service development, authentication mechanisms, payment integration, and deployment strategies.  
 
 ### **Key Components & Linked Microservices**  
