@@ -1,0 +1,4 @@
+/Users/nitinkalokhe/Ni3/spring_boot_proj/EmailService/src/main/java/com/scaler/emailservice/EmailServiceApplication.java
+/Users/nitinkalokhe/Ni3/spring_boot_proj/EmailService/src/main/java/com/scaler/emailservice/clients/KafkaConsumerEmailClient.java
+/Users/nitinkalokhe/Ni3/spring_boot_proj/EmailService/src/main/java/com/scaler/emailservice/dtos/EmailDto.java
+/Users/nitinkalokhe/Ni3/spring_boot_proj/EmailService/src/main/java/com/scaler/emailservice/utils/EmailUtil.java

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.scaler.capstone.repos.CategoryRepoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 9.346 s <<< FAILURE! -- in com.scaler.capstone.repos.CategoryRepoTest
+com.scaler.capstone.repos.CategoryRepoTest.testFetchTypes -- Time elapsed: 1.099 s <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at com.scaler.capstone.repos.CategoryRepoTest.testFetchTypes(CategoryRepoTest.java:23)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
